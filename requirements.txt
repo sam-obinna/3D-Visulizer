@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+typing_extensions
+bcrypt
+typing
+langgraph
+langchain_core
+langchain_groq
+dotenv
+requests
+matplotlib
+numpy
+python-multipart
